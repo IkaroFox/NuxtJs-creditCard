@@ -1,0 +1,31 @@
+{
+  "name": "creditCard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/pwa": "^3.3.5",
+    "chai": "^4.3.4",
+    "core-js": "^3.15.1",
+    "element-ui": "^2.15.2",
+    "nuxt": "^2.15.7",
+    "nuxt-i18n": "^2.10.0",
+    "sass": "^1.36.0"
+  },
+  "devDependencies": {
+    "@intlify/vue-i18n-loader": "^2.1.2",
+    "@nuxt/types": "^2.15.7",
+    "coffee-loader": "^3.0.0",
+    "coffeescript": "^2.5.1",
+    "node-sass": "^6.0.1",
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.1.0",
+    "sass-loader": "^10.1.1"
+  }
+}
