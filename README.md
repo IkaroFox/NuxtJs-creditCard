@@ -2,6 +2,9 @@
 
 Project based in https://github.com/muhammed/vue-interactive-paycard by muhammed, using framework Nuxtjs.
 
+# Required 
+- Node 12.4
+
 ## Build Setup
 
 ```bash
