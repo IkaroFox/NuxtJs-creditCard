@@ -1,6 +1,6 @@
 # Interactive Credit Card.
 
-Project based in https://github.com/muhammed/vue-interactive-paycard by muhammed
+Project based in https://github.com/muhammed/vue-interactive-paycard by muhammed, using framework Nuxtjs.
 
 ## Build Setup
 
